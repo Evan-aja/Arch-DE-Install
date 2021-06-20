@@ -9,4 +9,5 @@ Run this script after base install.
 2. chmod -R 755 Arch-DE-Install
 3. cd Arch-DE-Install
 4. cd to which DE you want to install
-5. run each script in succession, DO NOT skip any script (./GNOME1.sh and then ./GNOME2.sh and so on) 
+5. review each script, make changes as you see fit
+6. run each script in succession, DO NOT skip any script (./GNOME1.sh and then ./GNOME2.sh and so on) 
